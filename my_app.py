@@ -13,6 +13,8 @@ import json
 from streamlit_autorefresh import st_autorefresh
 
 from supports import (
+    sendEmail,
+    loadRecentMachineData,
     loadLatestMachineData,
     loadInventory,
     loadUserDb,
@@ -20,9 +22,7 @@ from supports import (
     loadMaintenanceTasks,
     confirmMaintenanceTask,
     generatePendingReport,
-    generateCompletedReport,
-    sendEmail,
-    loadRecentMachineData
+    generateCompletedReport
 )
 
 # Page configuration
