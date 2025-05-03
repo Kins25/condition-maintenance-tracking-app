@@ -151,10 +151,9 @@ async def updateMachines():
         # Update every 10 seconds
         await asyncio.sleep(10)
     
-    # This part is unreachable due to the infinite loop, but kept for clarity
-    #csv_content = output.getvalue()
-    #output.close()
-    #print(csv_content)
+    csv_content = output.getvalue()
+    output.close()
+    print(csv_content)
 
 # Function Read Machine Data.
 async def main():
