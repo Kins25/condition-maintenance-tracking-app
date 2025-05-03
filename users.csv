@@ -1,0 +1,6 @@
+,password,role
+admin,admin123,admin
+tech,tech123,user
+student,student123,user  
+Student23,student1234,user
+Professor,prof123,admin

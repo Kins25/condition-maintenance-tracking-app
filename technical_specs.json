@@ -1,0 +1,253 @@
+{
+"CTX beta 1250 TC":[
+ {
+  "Max. workpiece diameter": "Max. workpiece length",
+  "500": 1200,
+  "mm": "mm"
+ },
+ {
+  "Max. workpiece diameter": "Max. bar capacity diameter",
+  "500": 102,
+  "mm": "mm"
+ },
+ {
+  "Max. workpiece diameter": "Max. X-axis stroke",
+  "500": 490,
+  "mm": "mm"
+ },
+ {
+  "Max. workpiece diameter": "Max. Y-axis stroke",
+  "500": 250,
+  "mm": "mm"
+ },
+ {
+  "Max. workpiece diameter": "Max. Z-axis stroke",
+  "500": 1300,
+  "mm": "mm"
+ },
+ {
+  "Max. workpiece diameter": "Number of tool stations",
+  "500": 24,
+  "mm": "pcs"
+ },
+ {
+  "Max. workpiece diameter": "Rotary tool spindle speed",
+  "500": 20000,
+  "mm": "rpm"
+ },
+ {
+  "Max. workpiece diameter": "Control & software alternatives",
+  "500": "SIEMENS"
+ }
+],
+"NTX 3000":[
+ {
+  "Max. workpiece diameter": "Max. workpiece length",
+  "26.4": 123,
+  "in": "in"
+ },
+ {
+  "Max. workpiece diameter": "Max. bar diameter",
+  "26.4": 4,
+  "in": "in"
+ },
+ {
+  "Max. workpiece diameter": "Max. X-axis travel",
+  "26.4": 26.6,
+  "in": "in"
+ },
+ {
+  "Max. workpiece diameter": "Max. Y-axis travel",
+  "26.4": 11.8,
+  "in": "in"
+ },
+ {
+  "Max. workpiece diameter": "Max. Z-axis travel",
+  "26.4": 120.6,
+  "in": "in"
+ },
+ {
+  "Max. workpiece diameter": "Number of tool stations",
+  "26.4": 246,
+  "in": "pcs"
+ },
+ {
+  "Max. workpiece diameter": "Rotary tool spindle speed",
+  "26.4": 3000,
+  "in": "rpm"
+ },
+ {
+  "Max. workpiece diameter": "Control & software alternatives",
+  "26.4": "SIEMENS, MAPPS, Fanuc, MAPPS Fanuc"
+ }
+],
+"LTC-20i SERIES":[
+ {
+  "Max. swing": "Max. turning diameter",
+  "565(22.2)": "390(15.4)",
+  "mm (in)": "mm (in)"
+ },
+ {
+  "Max. swing": "Max. turning length",
+  "565(22.2)": "510(20)",
+  "mm (in)": "mm (in)"
+ },
+ {
+  "Max. swing": "Bar capacity",
+  "565(22.2)": "77(3)",
+  "mm (in)": "mm (in)"
+ },
+ {
+  "Max. swing": "X axis travel",
+  "565(22.2)": "212+8(8.34+0.31)",
+  "mm (in)": "mm (in)"
+ },
+ {
+  "Max. swing": "Z axis travel",
+  "565(22.2)": "560(22)",
+  "mm (in)": "mm (in)"
+ },
+ {
+  "Max. swing": "Spindle speeds",
+  "565(22.2)": 3500,
+  "mm (in)": "rpm"
+ },
+ {
+  "Max. swing": "Number of tool stations",
+  "565(22.2)": 12,
+  "mm (in)": "pcs"
+ },
+ {
+  "Max. swing": "Rotary tool spindle speed",
+  "565(22.2)": 5000,
+  "mm (in)": "rpm"
+ },
+ {
+  "Max. swing": "Control & software alternatives",
+  "565(22.2)": "Fanuc 3m"
+ }
+],
+"LTC-50i SERIES":[
+ {
+  "Max. swing": "Max. turning diameter",
+  "850(33.5)": "800(31.5)",
+  "mm (in)": "mm (in)"
+ },
+ {
+  "Max. swing": "Max. turning length",
+  "850(33.5)": "3070\/4070(120.9\/160.2)",
+  "mm (in)": "mm (in)"
+ },
+ {
+  "Max. swing": "Bar capacity",
+  "850(33.5)": "117(4.6)",
+  "mm (in)": "mm (in)"
+ },
+ {
+  "Max. swing": "X axis travel",
+  "850(33.5)": "400+25(15.7+1)",
+  "mm (in)": "mm (in)"
+ },
+ {
+  "Max. swing": "Z axis travel",
+  "850(33.5)": "3100\/4100(122.7\/161.4)",
+  "mm (in)": "mm (in)"
+ },
+ {
+  "Max. swing": "Spindle speed",
+  "850(33.5)": 15000,
+  "mm (in)": "rpm"
+ },
+ {
+  "Max. swing": "Number of tool stations",
+  "850(33.5)": 12,
+  "mm (in)": "pcs"
+ },
+ {
+  "Max. swing": "Control & software alternatives",
+  "850(33.5)": "Fanuc 11i or 11i-iS series"
+ }
+],
+"iT SERIES":[
+ {
+  "X axis travel": "Y axis travel",
+  "1270(50)": "800(31.50)",
+  "mm (in)": "mm (in)"
+ },
+ {
+  "X axis travel": "Z axis travel",
+  "1270(50)": "680(26.7)",
+  "mm (in)": "mm (in)"
+ },
+ {
+  "X axis travel": "Table size",
+  "1270(50)": "630(24.8)",
+  "mm (in)": "mm (in)"
+ },
+ {
+  "X axis travel": "Spindle speed",
+  "1270(50)": 12000,
+  "mm (in)": "rpm"
+ },
+ {
+  "X axis travel": "Spindle motor",
+  "1270(50)": "26(34.9)",
+  "mm (in)": "kw (HP)"
+ },
+ {
+  "X axis travel": "Number of tool stations",
+  "1270(50)": 24,
+  "mm (in)": "Pcs"
+ },
+ {
+  "X axis travel": "Control & software alternatives",
+  "1270(50)": "Fanuc 3m"
+ }
+],
+"VSC 500":[
+ {
+  "Chuck diameter, max.": "Swing diameter",
+  "500": 520,
+  "mm": "mm"
+ },
+ {
+  "Chuck diameter, max.": "Workpiece diameter, max.",
+  "500": 440,
+  "mm": "mm"
+ },
+ {
+  "Chuck diameter, max.": "X-axis travel",
+  "500": 1000,
+  "mm": "mm"
+ },
+ {
+  "Chuck diameter, max.": "Z-axis travel",
+  "500": 400,
+  "mm": "kW"
+ },
+ {
+  "Chuck diameter, max.": "Main spindle: Power 40% \/ 100% ED",
+  "500": "71\/45",
+  "mm": "Nm"
+ },
+ {
+  "Chuck diameter, max.": "Main spindle: Torque 40% \/ 100% ED",
+  "500": "750\/480",
+  "mm": "min-1"
+ },
+ {
+  "Chuck diameter, max.": "Main spindle: Speed, max.",
+  "500": 3400,
+  "mm": "rpm"
+ },
+ {
+  "Chuck diameter, max.": "Number of tool stations",
+  "500": 12,
+  "mm": "pcs"
+ },
+ {
+  "Chuck diameter, max.": "Control & software alternatives",
+  "500": "FANUC 31i \/ 32i, SIEMENS SINUMERIK 840 D \/ Dsl, Bosch Rexroth MTX"
+ }
+]
+}
